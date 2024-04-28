@@ -28,13 +28,13 @@
     <html>
     <head>
     <meta charset="UTF-8">
-    <title> 숭이한테 존내 화내기 </title>
+    <title> 방울방울 </title>
     </head>
     <body>
-    숭이야안녕?난오랫동안너에게화를<br>
-    내기위해수련해온하얀뚱대지야-.-<br>
-    <a href="https://youtu.be/DpYUkYtQ48U?si=MuQe6HD-mf2pKAan"> 내가만든거맞으니까아아악!!!기뻐해애기야☞☜ </a><br>
-    <a href="./down/mrmr.zip">  <img src="./images/mrmr.gif" alt="숭이한테 화내는 중인 하얀 말랭이">  </a>
+    비눗방울을만들고있는<br>
+    말랭이의모습이보인다<br>
+    <a href="https://youtu.be/ft70sAYrFyY?si=HPrnams7GRD-CSim"> 비눗방울만드는법알려줄게 </a><br>
+    <a href="./down/mrmr.zip">  <img src="./images/mrmr.gif" alt="비눗방울을 만드는 모습">  </a>
     </body>
     </html>
     
