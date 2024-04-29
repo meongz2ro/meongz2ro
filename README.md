@@ -110,3 +110,7 @@
     
     Ctrl + Alt + ▼ : 행간 늘리기
     Ctrl + Alt + ▲ : 행간 줄이기
+
+
+    ☆ 누끼 따는 사이트
+    https://www.remove.bg/ko
