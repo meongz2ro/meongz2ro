@@ -5,6 +5,11 @@
     □ 해상도: 웹용은 72ppi, 인쇄용은 150~300dpi (현수막은 100이나 150, 책은 무조건 300)
     □ 컬러 모드: 웹용은 RGB, 인쇄용은 CMYK
 
+    ■ 네온사인 만들기
+    1. 스위치 그룹을 만들고 색 넣기
+    2. 모형(path) 만들기
+    3. 
+
     □ Magnetic Lasso Tool: 외곽선 선을 구분해서 누끼 따 주는 기능
     □ (블렌딩 모드) Multiply: 하얀 배경 날려 줌
     □ (블렌딩 모드) Screen: 검은 배경 날려 줌
@@ -31,6 +36,7 @@
     Ctrl + W: 닫기
     Alt + 드래그: 복사
     Ctrl + I: 색상 반전
+    Ctrl + H: 가이드 선 숨기기/보이기
 
 
     ☆ 저작권 무료 이미지 사이트
@@ -38,6 +44,9 @@
     Pexels https://www.pexels.com
     Pixabay https://pixabay.com
     Freepik https://www.freepik.com
+
+    ☆ 브러쉬 다운 사이트
+    https://www.brusheezy.com/free/photoshop
 
 <hr/>
 
