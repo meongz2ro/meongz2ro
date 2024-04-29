@@ -6,6 +6,11 @@
     □ 컬러 모드: 웹용은 RGB, 인쇄용은 CMYK
 
     □ Magnetic Lasso Tool: 외곽선 선을 구분해서 누끼 따 주는 기능
+    □ (블렌딩 모드) Multiply: 하얀 배경 날려 줌
+    □ (블렌딩 모드) Screen: 검은 배경 날려 줌
+    □ Feather: 선택한 영역에서 가장자리 부드럽게 할 때 사용하는 기능
+    □ Filter - Stylize - Wind: 바람 효과
+    □ ​Filter - Distort - Ripple: 물결 효과
 
     
     ★ 선택 영역 지정 시 단축키
@@ -24,6 +29,8 @@
     Alt + Delete: 전경색 채우기
     Ctrl + Z: 되돌리기
     Ctrl + W: 닫기
+    Alt + 드래그: 복사
+    Ctrl + I: 색상 반전
 
 
     ☆ 저작권 무료 이미지 사이트
