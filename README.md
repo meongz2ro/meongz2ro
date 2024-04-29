@@ -23,6 +23,14 @@
     Ctrl + Delete: 배경색 채우기
     Alt + Delete: 전경색 채우기
     Ctrl + Z: 되돌리기
+    Ctrl + W: 닫기
+
+
+    ☆ 저작권 무료 이미지 사이트
+    Unsplash https://unsplash.com
+    Pexels https://www.pexels.com
+    Pixabay https://pixabay.com
+    Freepik https://www.freepik.com
 
 <hr/>
 
