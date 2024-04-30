@@ -1,3 +1,14 @@
+###### 24/04/30 (5 day)
+
+#### *Photoshop*
+**5 day - 포토샵 액션 패널, 펜툴로 외곽선 따기, 여러 가지 투명 패턴 제작**
+
+    □ File - automate - contact sheet (원하는 사이즈에 원하는 개수만큼 자동 배치)
+    □ File - Scripts - Load files into stack... (레이어 자동 배치)
+    □ Edit - Difine Pattern (패턴 생성)
+    
+<hr/>
+
 ###### 24/04/29 (4 day)
 
 #### *Photoshop*
