@@ -1,3 +1,27 @@
+###### 24/05/01 (6 day)
+
+#### *Illustration*
+**6 day - 일러스트 기초, 펜툴, 패스 파인더, 배색 4가지 방법, 로고 제작**
+
+    □ Window - Svmbol Libraries - Web Buttons and Bars, Web Icons
+    □ Window - Brush Libraries - Decorative - ...
+    □ Window - Transform (도형 크기 조정)
+    □ Scale Tool - Scale Strokes & Effects 체크 (사이즈 전체적으로 변형)
+    
+
+    ★ 단축키
+    도형 드래그 + Ctrl, 방향키(↑, ↓): 모양 변형
+    Ctrl + 배경 클릭: 선택 해제
+    Ctrl + Y: 뼈 보여 줌
+    Ctrl + Shift + G: 분해쇼
+    Ctrl + G: 그룹
+    Ctrl + C, Ctrl + F: 제자리 복붙
+    Ctrl + Shift + P: 외부 이미지 불러오기 (불러올 때 링크 해제 혹은 불러온 뒤 상단 embed 클릭 필수)
+    Ctrl + 2: 잠금, Ctrl + Alt + 2: 잠금 해제
+    Alt 누른 채로 드래그: 복사 (+ Shift: 수평) 이후 Ctrl + D: 복붙을 복붙
+
+<hr/>
+
 ###### 24/04/30 (5 day)
 
 #### *Photoshop*
