@@ -1,10 +1,13 @@
 ###### 24/05/02 (7 day)
 
+**7 day - 일러스트 기초, 일러스트 작업물을 포토샵 이용해서 목업, 지저분한 뒷선 정리**
 #### *Illustration*
-**7 day - 일러스트 기초, 춘식이 그리기, 눈 그리기**
 
     ◆ Window - Stroke - Cap, Corner (선 둥글게 혹은 각지게)
 
+#### *Photoshop*
+
+    ★ Ctrl + X, Ctrl + V: 패스 제자리 복붙
 
 <hr/>
 
