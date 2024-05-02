@@ -1,3 +1,13 @@
+###### 24/05/02 (7 day)
+
+#### *Illustration*
+**7 day - 일러스트 기초, 춘식이 그리기, 눈 그리기**
+
+    ◆ Window - Stroke - Cap, Corner (선 둥글게 혹은 각지게)
+
+
+<hr/>
+
 ###### 24/05/01 (6 day)
 
 #### *Illustration*
