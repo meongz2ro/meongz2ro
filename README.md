@@ -5,7 +5,8 @@
 
     ◆ 카멜 표기법(Camel Case): 여러 단어를 연달아 사용할 때 각 단어의 첫 글자를 대문자로 적되, 맨 앞에 오는 글자는 소문자로 표기하는 것
 
-    ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈 O), span(inline 공간/줄바꿈 X)
+    ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈, 사이즈 변경 O), span(inline 공간/줄바꿈, 사이즈 변경 X), div(span)*(숫자){문구}, img(inline-block 줄바꿈 X/사이즈 변경 O), a(inline), ./(경로), P(문단)
+    ♥ style(css), i(기울기), em(기울기)
     ☆ Shift + Alt + ↓(복사/붙이기), Ctrl + B(탐색기 닫기/열기), Alt + B(오프닝 브라우저)
 
     1. designProject 파일 안에 down(1), images(2) 파일 생성
@@ -15,7 +16,10 @@
     5. Extensions - open in browser 설치
     6. 이전에 만든 파일은 div/span으로 변경, 다시 index 생성
     7. Extensions - Live Server 설치 (오프닝 브라우저와 달리 저장만 하면 새로고침 안 해도 바로 변경됨)
-    8. 
+    8. <a href="다운로드 파일"><img src="이미지" alt="설명"></a> : 이미지를 누르면 다운로드 파일이 받아짐 (11개)
+    9. <H1> HAYOUNG DESIGN PROJECT </H1> : 내용 속 제목
+    10. *폰트* Get Embed code - <link>: Html(구조), @import: Css(디자인) - 코드 긁어다 link는 head 사이, import는 style 사이
+    
     
 
 <hr/>
