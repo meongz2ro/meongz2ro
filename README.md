@@ -3,6 +3,19 @@
 **8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 파일 업로드**
 #### *Dothome/Github*
 
+    ◆ 카멜 표기법(Camel Case): 여러 단어를 연달아 사용할 때 각 단어의 첫 글자를 대문자로 적되, 맨 앞에 오는 글자는 소문자로 표기하는 것
+
+    ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈 O), span(inline 공간/줄바꿈 X)
+    ☆ Shift + Alt + ↓(복사/붙이기), Ctrl + B(탐색기 닫기/열기), Alt + B(오프닝 브라우저)
+
+    1. designProject 파일 안에 down(1), images(2) 파일 생성
+    2. Visual Studio Code 실행 후 designProject 파일 열기 (체크박스 선택)
+    3. 새 파일 - index.html 생성 (!주의할 점: 첫 번째 페이지는 무조건 index 이름을 찾아서 보여 줌/나머지 페이지는 한글과 띄어쓰기만 아니면 다 가능)
+    4. ! 치고 엔터 후 자동 생성된 코드 수정
+    5. Extensions - open in browser 설치
+    6. 이전에 만든 파일은 div/span으로 변경, 다시 index 생성
+    7. Extensions - Live Server 설치 (오프닝 브라우저와 달리 저장만 하면 새로고침 안 해도 바로 변경됨)
+    8. 
     
 
 <hr/>
