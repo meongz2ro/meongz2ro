@@ -1,12 +1,12 @@
 ###### 24/05/03 (8 day)
 
-**8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 파일 업로드**
+**8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 이미지(원본 다운까지) 파일 업로드**
 #### *Dothome/Github*
 
     ◆ 카멜 표기법(Camel Case): 여러 단어를 연달아 사용할 때 각 단어의 첫 글자를 대문자로 적되, 맨 앞에 오는 글자는 소문자로 표기하는 것
 
     ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈, 사이즈 변경 O), span(inline 공간/줄바꿈, 사이즈 변경 X), div(span)*(숫자){문구}, img(inline-block 줄바꿈 X/사이즈 변경 O), a(inline), ./(경로), P(문단)
-    ♥ style(css), i(기울기), em(기울기)
+    ♥ style(css), i/em(기울기),  body{bgc}(배경색), margin(바깥 여백), padding(안쪽 여백)
     ☆ Shift + Alt + ↓(복사/붙이기), Ctrl + B(탐색기 닫기/열기), Alt + B(오프닝 브라우저)
 
     1. designProject 파일 안에 down(1), images(2) 파일 생성
@@ -19,9 +19,12 @@
     8. <a href="다운로드 파일"><img src="이미지" alt="설명"></a> : 이미지를 누르면 다운로드 파일이 받아짐 (11개)
     9. <H1> HAYOUNG DESIGN PROJECT </H1> : 내용 속 제목
     10. *폰트* Get Embed code - <link>: Html(구조), @import: Css(디자인) - 코드 긁어다 link는 head 사이, import는 style 사이
+    11. *이미지 사이즈 통일* style 사이 {width:(숫자)px;}
+    12. *배경색 바꾸기* style 사이 body{bgc}
+    13. *여백 조정* style 사이 {margin:(숫자); padding:(숫자);} : 0으로도 초기화 설정 해 주기
+    13. *중앙 정렬* style 사이 div {margin: 0 auto; width: 600px;} : 위, 아래 0 좌우 auto = 중앙 정렬 (사이즈 입력 필수)
+    14. *그림자* style 사이 box-shadow 0 0 10px rgba(0,0,0,0.3);} : X, Y, 흐림 효과, 검정에 30% 투명도
     
-    
-
 <hr/>
 
 ###### 24/05/02 (7 day)
