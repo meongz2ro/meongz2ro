@@ -1,3 +1,12 @@
+###### 24/05/03 (8 day)
+
+**8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 파일 업로드**
+#### *Dothome/Github*
+
+    
+
+<hr/>
+
 ###### 24/05/02 (7 day)
 
 **7 day - 일러스트 기초, 일러스트 작업물을 포토샵 이용해서 목업, 지저분한 뒷선 정리**
@@ -13,8 +22,8 @@
 
 ###### 24/05/01 (6 day)
 
-#### *Illustration*
 **6 day - 일러스트 기초, 펜툴, 패스 파인더, 배색 4가지 방법, 로고 제작**
+#### *Illustration*
 
     □ Window - Svmbol Libraries - Web Buttons and Bars, Web Icons
     □ Window - Brush Libraries - Decorative - ...
@@ -37,8 +46,8 @@
 
 ###### 24/04/30 (5 day)
 
-#### *Photoshop*
 **5 day - 포토샵 액션 패널, 여러 가지 투명 패턴 제작, 펜툴 사용 방법, 네온 애니메이션**
+#### *Photoshop*
 
     ■ Pen tool
     1. Shift 누른 채로 끝점 클릭 (45도 수직, 수평)
