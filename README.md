@@ -9,7 +9,7 @@
     ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈, 사이즈 변경 O), span(inline 공간/줄바꿈, 사이즈 변경 X)
     div(span)*(숫자){문구}, img(inline-block 줄바꿈 X/사이즈 변경 O), a(inline), ./(경로), P(문단)
     
-    ♥ style(css), i/em(기울기),  body{bgc}(배경색), margin(바깥 여백), padding(안쪽 여백)
+    ♥ style(css), i/em(기울기), body{bgc}(배경색), margin(바깥 여백), padding(안쪽 여백)
     
     ☆ Shift + Alt + ↓(복사/붙이기), Ctrl + B(탐색기 닫기/열기), Alt + B(오프닝 브라우저)
 
