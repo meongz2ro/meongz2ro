@@ -23,7 +23,7 @@
 ###### 24/05/03 (8 day)
 
 **8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 이미지(원본 다운까지) 파일 업로드**
-복습: https://meongz2ro.github.io/240508-test/
+##### 복습: https://meongz2ro.github.io/240508-test/
 #### *Visual Studio Code(HTML, CSS)*
 
     ◆ 카멜 표기법(Camel Case): 여러 단어를 연달아 사용할 때 각 단어의 첫 글자를 대문자로 적되, 맨 앞에 오는 글자는 소문자로 표기하는 것
