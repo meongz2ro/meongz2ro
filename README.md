@@ -1,19 +1,37 @@
+###### 24/05/09 (11 day)
+
+**11 day - UI, UX 분석 기획 / 일러스트 도형 조작, 아이콘 제작**
+##### 복습: x
+
+#### *Illustration*
+
+    ★ Ctrl + D: 복제
+    ★ Shift + Ctrl + O: Create Outlines (텍스트 이미지화)
+    ★ Ctrl + 7: Clipping Mask - Make
+    ★ Ctrl + Alt + C: 글씨 뒤로 가게 해서 도형에 글씨 넣기
+
+    ◆ Mesh tool (그물)
+    ◆ Window - Transparency (블랜딩 모드)
+    ◆ 황금 비율 /1.618
+
+<hr/>
+
 ###### 24/05/07 (9 day)
 
 **9 day - 트레이스(일러스트), 레이어 마스크(포토샵), 이벤트 디자인**
-복습: 
+##### 복습: x
+
 #### *Illustration*
 
     ■ 캘리그라피 블랙 앤 화이트만 남기는 법
-    포토샵
+    <포토샵>
     1. mode - gray...(1), bitmap - 50%...(2) 이후 다시 gray...(3), rgb(4)
     2. filter gallery - sketch - stamp
-    일러스트
+    <일러스트>
     3. 이미지 불러오기 - image trace - expand - 매직 툴로 흰색 배경 지우기
     4. 그룹화 - 선택 - scale tool 더블 클릭 - 사이즈 조정
-    포토샵
+    <포토샵>
     5. 레이어 마스크 이용해서 글씨에 합성할 이미지 만들기
-
 
     ◆ blend tool (도형 사이 잇는 도구)
     ◆ 윈도우 - 3d
@@ -24,18 +42,15 @@
 
 **8 day - 닷홈/깃허브 세팅, 그래픽 디자인 프로젝트 코딩하여 이미지(원본 다운까지) 파일 업로드**
 ##### 복습: https://meongz2ro.github.io/240508-test/
+
 #### *Visual Studio Code(HTML, CSS)*
 
     ◆ 카멜 표기법(Camel Case): 여러 단어를 연달아 사용할 때 각 단어의 첫 글자를 대문자로 적되, 맨 앞에 오는 글자는 소문자로 표기하는 것
     
-
     ★ !(html 구조), Ctrl + /(주석), div(block 공간/줄바꿈, 사이즈 변경 O), span(inline 공간/줄바꿈, 사이즈 변경 X)
     div(span)*(숫자){문구}, img(inline-block 줄바꿈 X/사이즈 변경 O), a(inline), ./(경로), P(문단)
-    
     ♥ style(css), i/em(기울기), body{bgc}(배경색), margin(바깥 여백), padding(안쪽 여백)
-    
     ☆ Shift + Alt + ↓(복사/붙이기), Ctrl + B(탐색기 닫기/열기), Alt + B(오프닝 브라우저)
-
 
     1. designProject 파일 안에 down(1), images(2) 파일 생성
     2. Visual Studio Code 실행 후 designProject 파일 열기 (체크박스 선택)
