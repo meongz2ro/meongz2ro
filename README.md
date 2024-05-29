@@ -1,5 +1,30 @@
 ###### 24/05/29/수 (24 day)
-    🖤 
+
+#### *HTML*
+    💌 표(table) 코딩 <교재 75p>
+        └ 표는 행(row)과 열(column)로 구성되어 있고 행과 열이 만나 이루는 영역을 셀(cell)이라고 함
+
+        💗 기본적으로 테두리는 표시되지 않으므로 <table border="선 두께"> 적용해야 함 <교재 357p~ 참고>
+
+
+    💌 비디오(video) 코딩 <교재 -p>
+        └ autoplay: 페이지가 로드될 때 비디오 자동 재생
+          muted: 비디오 소리를 음소거
+          loop: 비디오가 끝까지 재생된 후 처음부터 다시 반복 재생
+
+        《배경에 비디오 넣기》
+
+        【 <video src="비디오 주소" autoplay muted loop></video> 】
+
+        💗 링크(link) 태그 이용해서 스타일 넣기
+        ⓐ head 안에 【 <link rel="stylesheet" href="./css 경로"> 】
+        ⓑ css 파일 안에 style.css 생성
+        ⓒ style.css - 최상단 【 @charset "UTF-8"; 】 고정
+        ⓓ style.css - 【 * {margin: 0; padding: 0;} 】 : 기본 여백 없애기
+        ⓔ style.css - 【 html, body {width: 100%; height: 100%; display: flex;} / video {width: 100%; height: 100%; object-fit: cover;} 】
+                        └ display: flex; - 미세한 스크롤 없애기
+                        └ object-fit: cover; - 화면 비율에 딱 맞추기 (잘리는 부분 생길 수 있음)
+        
 
 <hr/>
 
